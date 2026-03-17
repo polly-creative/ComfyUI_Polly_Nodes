@@ -1,7 +1,7 @@
 # ComfyUI Polly Nodes
 
 <p align="center">
-  <img src="screenshot.jpg" width="850" alt="Emissive Color Node Demo">
+  <img src="screenshot.jpg?v=1" width="850" alt="Emissive Color Node Demo">
   <br>
   <b><i>The Emissive Color node extracting vivid lava highlights while intelligently ignoring white specular reflections.</i></b>
 </p>
